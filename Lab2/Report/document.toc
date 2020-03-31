@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}ICT in mole diagnosis}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The data set}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Algorithm}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Preprocessing}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Perimeter calculation}{4}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Results}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Conclusions}{6}{section.3}%

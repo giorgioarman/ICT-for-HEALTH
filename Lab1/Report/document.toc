@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\textbf {Parkinson’s disease (PD)}}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Goal of laboratory}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}The data}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The data set}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Preprocessing}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Methods and Algorithms}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}LLS pseudoinverse}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Result}{4}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}The gradient algorithm}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Result}{5}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}The stochastic gradient}{5}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Result}{6}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}The conjugate gradient}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Result}{7}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}The steepest descent algorithm}{7}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Result}{8}{subsubsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.6}The ridge regression (optimize $\lambda $)}{9}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Result}{9}{subsubsection.3.6.1}%
+\contentsline {section}{\numberline {4}Conclusions}{10}{section.4}%
